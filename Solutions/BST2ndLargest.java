@@ -3,7 +3,7 @@
  *
  * <p> Description: A program to calculate the second max element in the BST</p>
  *
- * <p> Copyleft: Venkatesh Bejjenki © 2017 </p>
+ * <p> Copyright: Venkatesh Bejjenki © 2017 </p>
  *
  * @author Venkatesh Bejjenki
  *------------------------------------------------------------------------------------
