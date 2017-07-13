@@ -1,7 +1,7 @@
  /*-----------------------------------------------------------------------------------
  * <p> Title: Appears Twice  </p>
  *
- * <p> Description: A program that returns the dublicate no in the given array without disturbing the given the array.</p>
+ * <p> Description: A program that returns the dublicate no in the given array. (Without disturbing the input array).</p>
  *
  * <p> Copyright: Venkatesh Bejjenki © 2017 </p
  *
