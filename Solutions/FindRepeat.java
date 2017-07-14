@@ -1,5 +1,5 @@
  /*-----------------------------------------------------------------------------------
- * <p> Title: Appears Twice  </p>
+ * <p> Title: Find Repeat  </p>
  *
  * <p> Description: A program that returns the dublicate no in the given array. (Without disturbing the input array).</p>
  *
