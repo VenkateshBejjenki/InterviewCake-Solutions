@@ -3,7 +3,7 @@
  *
  * <p> Description: A program that return the merged array of two sorted arrays</p>
  *
- * <p> Copyright: Venkatesh Bejjenki © 2017 </p
+ * <p> Copyright: Venkatesh Bejjenki © 2017 </p>
  *
  * @author Venkatesh Bejjenki
  *------------------------------------------------------------------------------------
