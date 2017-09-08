@@ -3,7 +3,7 @@
  *
  * <p> Description: A program that returns the element that appears twice in a array with elements ranging from 0 to n </p>
  *
- * <p> Copyright: Venkatesh Bejjenki © 2017 </p
+ * <p> Copyleft: Venkatesh Bejjenki 2017 </p
  *
  * @author Venkatesh Bejjenki
  *------------------------------------------------------------------------------------
